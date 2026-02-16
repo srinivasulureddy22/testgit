@@ -4,3 +4,6 @@ test git pull
 test git featch
 git fetch
 today tect
+
+
+git stash
